@@ -12,7 +12,7 @@ This is our Pytorch implementation for MDAG-Net.
 
 # Testing
 
-The datasets used to test are organized [HERE](https://pan.baidu.com/s/1_ekIgH6RjhEXoXiHxUdEHA) (提取码：ltr1). Please uncompress it into the root path. 
+The datasets used to test are organized [HERE](https://pan.baidu.com/s/1k-09cTk3if7YdbpJoIVbQw) (提取码：hiq3). Please uncompress it into the root path. 
 
 The test model in our paper for the CMU-Seasons dataset are found [HERE](https://pan.baidu.com/s/1OaAY-WOgrS3f6qqtlbsIxw) (提取码：fm07). Please make a new directory `./checkpoints` under the root path and uncompress it under `./checkpoints`. 
 
